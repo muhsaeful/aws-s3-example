@@ -1,9 +1,9 @@
 Belajar AWS S3 (upload,download, update)
 
 Create file .env
-Add
-PORT = 
-AWS_BUCKET_NAME=
-AWS_BUCKET_REGION=
-AWS_ACCESS_KEY=
-AWS_SECRET_KEY=
+<br>Add
+<br>PORT = 
+<br>AWS_BUCKET_NAME=
+<br>AWS_BUCKET_REGION=
+<br>AWS_ACCESS_KEY=
+<br>AWS_SECRET_KEY=
