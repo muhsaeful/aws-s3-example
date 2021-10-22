@@ -1,0 +1,25 @@
+{
+  "name": "aws-s3-example",
+  "version": "1.0.0",
+  "description": "Belajar upload dan mnampilkan gambar dari AWS S3 dengan mengunakan NodeJs",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "^2.1012.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "AWS S3",
+    "Express",
+    "NodeJs"
+  ],
+  "author": "M Saeful Anwar",
+  "license": "ISC"
+}
